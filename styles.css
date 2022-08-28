@@ -1,0 +1,24 @@
+body{
+    font-family:Arial, Helvetica, sans-serif
+  }
+
+  .title {
+    font-size: 32px;
+    font-weight: bold;
+    color: gold;
+    background-color: #B22222;
+    width: 15%;
+  }
+
+  .subtitle{
+    font-size: 28px;
+    font-weight: 600;
+    color: grey;
+    background-color: antiquewhite;
+    width: 30%;
+
+  }
+
+.link{
+    font-size: 22px;
+}

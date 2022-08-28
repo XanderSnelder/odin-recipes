@@ -1,1 +1,1 @@
-This repository contains my first ever HTML webpage, created with the Odin project!
+This repository contains my first ever HTML webpage created with the Odin project!
